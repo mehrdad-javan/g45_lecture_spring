@@ -45,6 +45,6 @@ public class AccountDaoImpl implements AccountDao {
 
   @Override
   public void remove(Long aLong) {
-    // todo: implement it in the next lecture
+    //todo: implement it in the next lecture
   }
 }
